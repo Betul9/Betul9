@@ -10,7 +10,5 @@ https://github-readme-stats.vercel.app/api?username=Betul9
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 How to reach me: https://www.instagram.com/_betsr/<br/>
--     Also:               betulsari52@outlook.com
-
+- 📫 How to reach me: betulsari52@outlook.com<br/>
 
