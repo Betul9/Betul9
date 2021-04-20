@@ -12,5 +12,5 @@
 - 📫 How to reach me: [Instagram- @_betsr](https://www.instagram.com/_betsr/)</br>
 [Email - betulsari52@outlook.com](mailto:betulsari52@outlook.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Betul9">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betul9">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Betul9">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betul9"> -->
