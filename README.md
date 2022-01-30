@@ -11,7 +11,7 @@
 - 💬 Ask me about ...-->
 - 📫 How to reach me: [Instagram- @_betsr](https://www.instagram.com/_betsr/)</br>
 [Email - betulsari52@outlook.com](mailto:betulsari52@outlook.com)</br>
-[Linkedin - Betül Sarı](www.linkedin.com/in/betül-sarı-08308416b)
+[Linkedin - Betül Sarı](https://www.linkedin.com/in/betül-sarı-08308416b)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Betul9">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betul9"> -->
